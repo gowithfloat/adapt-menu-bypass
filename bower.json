@@ -6,15 +6,15 @@
     "issues": "https://github.com/gowithfloat/adapt-menu-bypass/issues",
     "version": "0.2.0",
     "authors": [
-          "Daniel Pfeiffer <dpfeiffer@gowithfloat.com>"
-      ],
+        "Daniel Pfeiffer <dpfeiffer@gowithfloat.com>"
+    ],
     "main": "/js/adapt-menu-bypass.js",
-    "extension" : "menuBypass",
-    "displayName" : "Menu Bypass",
+    "extension": "menuBypass",
+    "displayName": "Menu Bypass",
     "description": "Allows for menus to be use strictly for organizational purposes and not displayed to the user",
     "keywords": [
-      "adapt-plugin",
-      "adapt-extension"
+        "adapt-plugin",
+        "adapt-extension"
     ],
     "license": "MIT",
     "targetAttribute": "_menuBypass"
